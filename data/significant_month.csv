@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-12-27T14:21:13.000Z,61.29,-150.1027,35,4.9,ml,,,,0.73,ak,ak20556108,2018-12-27T18:52:41.702Z,"17km NW of Anchorage, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2018-12-27T08:59:11.670Z,10.2805,-67.9036,10,5.5,mww,,58,1.335,0.66,us,us2000iy0q,2018-12-27T18:56:32.122Z,"5km ENE of San Diego, Venezuela",earthquake,5.6,1.8,0.073,18,reviewed,us,us
+2018-12-26T02:19:14.000Z,37.63,15.1,1,5,mwr,,,,1.11,us,us2000ixky,2018-12-27T15:30:09.118Z,"2km ENE of Trecastagni, Italy",earthquake,7,3.8,0.08,15,reviewed,rom,us
+2018-12-23T23:08:40.340Z,-20.3749,-175.0925,100.17,6.4,mww,,20,5.034,1.47,us,us2000iwvb,2018-12-25T19:14:27.040Z,"84km N of Nuku`alofa, Tonga",earthquake,7.9,6,0.069,20,reviewed,us,us
+2018-12-20T17:01:55.150Z,55.0999,164.6993,16.56,7.3,mww,,23,4.126,0.79,us,us2000ivfw,2018-12-21T19:38:25.047Z,"83km W of Nikol'skoye, Russia",earthquake,7.9,2.9,0.025,155,reviewed,us,us
+2018-12-12T13:13:57.210Z,-55.799,-128.4776,10,6.3,mww,,83,29.939,1.2,us,us2000isw3,2018-12-13T07:08:54.572Z,"Pacific-Antarctic Ridge",earthquake,14.8,1.9,0.068,21,reviewed,us,us
+2018-12-12T09:14:43.610Z,35.6123333,-84.732,7.87,4.4,mw,32,40,,0.14,se,se60247871,2018-12-27T02:56:42.346Z,"11km NNE of Decatur, Tennessee",earthquake,0.22,0.66,,0,reviewed,se,se
+2018-12-11T02:26:32.730Z,-58.5981,-26.4656,164.66,7.1,mww,,34,7.037,0.81,us,us2000isc8,2018-12-11T17:21:40.115Z,"48km N of Bristol Island, South Sandwich Islands",earthquake,10.3,5.9,0.058,29,reviewed,us,us
+2018-12-09T19:00:32.359Z,61.4406,-149.8866,28,4.8,ml,,,,0.62,ak,ak20477170,2018-12-27T14:49:58.025Z,"9km SSE of Big Lake, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2018-12-05T06:43:04.120Z,-22.0502,169.6677,10,6.6,mww,,31,2.989,1.09,us,us1000i2k0,2018-12-05T08:48:39.870Z,"192km ESE of Tadine, New Caledonia",earthquake,7.6,1.8,0.044,50,reviewed,us,us
+2018-12-05T04:18:08.400Z,-21.9568,169.4179,10,7.5,mww,,19,2.396,0.72,us,us1000i2gt,2018-12-21T03:06:23.641Z,"165km ESE of Tadine, New Caledonia",earthquake,5.8,1.7,0.047,44,reviewed,us,us
+2018-12-01T13:27:21.510Z,-7.403,128.7097,140.61,6.3,mww,,30,4.976,1.15,us,us1000hzjp,2018-12-06T01:10:41.820Z,"293km WNW of Saumlaki, Indonesia",earthquake,7.6,5.6,0.071,19,reviewed,us,us
+2018-11-30T17:29:29.330Z,61.3464,-149.9552,46.7,7,mww,,,,1.04,ak,ak20419010,2018-12-22T15:14:13.652Z,"12km N of Anchorage, Alaska",earthquake,,0.1,,,reviewed,ak,ak
